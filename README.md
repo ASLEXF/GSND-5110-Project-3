@@ -8,4 +8,4 @@ Yuxuan Chen (Designer)
 Rinka Zhong (Artist)
 Linxiang Sheng (Programmer)
 
-11-1-2025
+Nov-1-2025

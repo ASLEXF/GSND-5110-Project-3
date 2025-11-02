@@ -1,7 +1,7 @@
-#GSND 5110 Final project
-#Game Name: Escape from the school
+# GSND 5110 Final project
+# Game Name: Escape from the school
 
-#Team members:
+# Team members:
 Binghe Yi (Narrative Designer)
 Yuxuan Chen (Designer)
 Rinka Zhong (Artist)
